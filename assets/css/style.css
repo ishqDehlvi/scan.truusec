@@ -9,7 +9,6 @@
   white-space: nowrap;
   width: 800px;
   overflow: hidden;
-  animation: 2s typing steps(50, end) infinite;
 }
 
 .cursor {
